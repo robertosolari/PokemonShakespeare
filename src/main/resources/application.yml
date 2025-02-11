@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: PokemonShakespeare
+  datasource:
+    url: ''
+
+shakespeare:
+  api:
+    url: https://api.funtranslations.com/translate/shakespeare.json
+pokemon:
+  api:
+    url: https://pokeapi.co/api/v2/pokemon-species
